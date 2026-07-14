@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+api_env/
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Screenshots
+screenshots/
+
+# Environment Variables
+.env
